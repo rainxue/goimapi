@@ -1,0 +1,4 @@
+server:
+  address:     ":8998"
+  openapiPath: "/api.json"
+  swaggerPath: "/swagger"
